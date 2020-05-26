@@ -63,5 +63,5 @@ public class MainActivity extends AppCompatActivity {
 
     //안녕!!!!!!!!!!!!!!!!!!!!
 
-    //넵 안녕하세요 ㅎㅎ
+    //넵 안녕하세요 ㅎㅎ 제발.
 }
