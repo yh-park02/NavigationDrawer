@@ -17,6 +17,9 @@ public class MainActivity extends AppCompatActivity {
     ActionBarDrawerToggle toggle;
     boolean isDrawerOpend;
 
+
+    //재건 분활 작업 1차 시도
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
