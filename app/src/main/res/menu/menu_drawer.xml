@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_drawer_bookmark"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="즐겨찾기" />
+
+    <item
+        android:id="@+id/menu_drawer_profile"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="프로필관리" />
+
+    <item
+        android:id="@+id/menu_drawer_setting"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="설정" />
+</menu>
